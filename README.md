@@ -1,5 +1,7 @@
 ## Openwrt Driver for USB WiFi Adapters that are based on the RTL8811CU, RTL8821CU
 
+**[!!!] This repository is no longer maintained, you can find relevant content from here: https://github.com/immortalwrt/immortalwrt/tree/master/package/kernel/rtl8821cu**
+
 kmod-rtl8821cu
 
 - The Makefile file is referenced from https://github.com/immortalwrt/immortalwrt
